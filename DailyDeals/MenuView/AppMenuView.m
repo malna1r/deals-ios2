@@ -43,7 +43,7 @@
         
     
   
-    self.arrMenu = [NSMutableArray arrayWithObjects:@"Login",@"FAQ",@"About",@"Contact Us",@"Rate this app", nil];
+    self.arrMenu = [NSMutableArray arrayWithObjects:@"Profile",@"Beauty",@"Clothes", @"Entertainment",@"Food", @"FAQ",@"About",@"Contact Us", nil];
     
 
     AppDelegate *appDelegate=(AppDelegate *)[[UIApplication sharedApplication] delegate];
