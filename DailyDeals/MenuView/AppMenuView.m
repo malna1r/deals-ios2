@@ -43,8 +43,10 @@
         
     
   
-    self.arrMenu = [NSMutableArray arrayWithObjects:@"Login",@"FAQ",@"About",@"Contact Us",@"Rate this app", nil];
-    
+    self.arrMenu = [NSMutableArray arrayWithObjects:@"My Profile",@"Beauty",@"Clothing",@"Entertainment",@"Food",@"Travel",@"FAQ",@"About",@"Contact Us",@"Rate this app", nil];
+    -(IBAction)view1.arrMenu:(id)sender {
+        
+    }
 
     AppDelegate *appDelegate=(AppDelegate *)[[UIApplication sharedApplication] delegate];
     
